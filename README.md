@@ -39,7 +39,7 @@ All inference runs locally on embedded hardware. No cloud dependency. No pre-bui
 │            Edge-AI Command Dashboard             │
 │        (Centralised monitoring & control)        │
 └───────────────────────┬──────────────────────────┘
-                        │ MQTT
+                        │ 
                ┌────────┴────────┐
                ▼                 ▼
       ┌──────────────┐   ┌──────────────┐
@@ -98,14 +98,16 @@ These questions are currently being investigated as part of the project's resear
 - [x] System architecture design
 - [x] Component selection and sourcing
 - [x] Research question formulation
-- [ ] Mechanical assembly and chassis integration
+- [x] Mechanical assembly and chassis integration
+- [x] Present the Idea and Simulation in Science Exhibition
+- [x] Upgrading the basic model for next phase
 - [ ] Sensor stack integration and calibration
 - [ ] YOLOv8 pose estimation deployment on ESP32-CAM
 - [ ] OCR-based navigation pipeline implementation
 - [ ] Edge-AI command dashboard development
 - [ ] Full system integration testing
 - [ ] Clinical environment trials
-- [ ] Exhibition and documentation
+- [ ] Documentation
 
 ---
 
